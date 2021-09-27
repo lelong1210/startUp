@@ -8,3 +8,4 @@
 
 <!-- build:js script/script.min.js -->
 <script type="text/javascript" src="./public/js/script.js"></script>
+<script type="text/javascript" src="./public/js/slick.js"></script>

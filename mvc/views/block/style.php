@@ -13,3 +13,4 @@
 <link rel="stylesheet" type="text/css" media="screen" href="../../styles/main.scss" />
 <link rel="stylesheet" type="text/css" media="screen" href="./public/css/main.css" />
 <!-- endbuild -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>

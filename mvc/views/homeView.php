@@ -1,13 +1,13 @@
 <html lang="vi">
 
 <head>
-<?php require_once "block/head.php";?>
+  <?php require_once "block/head.php"; ?>
 </head>
 
 <body class="wrapper">
   <header class="main_header">
-    <?php require_once "block/header.php";?>
-</header>
+    <?php require_once "block/header.php"; ?>
+  </header>
 
   <section class="section_content--index">
 
@@ -49,7 +49,7 @@
           </div>
         </div>
       </div>
-      
+
     </section>
 
     <section class="section_2">
@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="box_show_slide_products">
-                    
+
                     <!-- product 1 -->
                     <div class="box_main_product">
                       <div class="box_img_product">
@@ -88,31 +88,31 @@
                         <p class="name_product">Cảm biến nhiệt độ, độ ẩm</p>
                         <div class="box_evaluate">
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2 hard_start"></div>
                           </div>
                         </div>
-                        <p class="price">Giá:  3.599.000đ</p>
+                        <p class="price">Giá: 3.599.000đ</p>
                         <a href="#" class="btn_view">Xem ngay</a>
                       </div>
                     </div>
@@ -127,31 +127,31 @@
                         <p class="name_product">Bộ điều khiển hồng ngoại</p>
                         <div class="box_evaluate">
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2 hard_start"></div>
                           </div>
                         </div>
-                        <p class="price">Giá:  3.199.000đ</p>
+                        <p class="price">Giá: 3.199.000đ</p>
                         <a href="#" class="btn_view">Xem ngay</a>
                       </div>
                     </div>
@@ -166,31 +166,31 @@
                         <p class="name_product">Cảm biến nhiệt độ, độ ẩm</p>
                         <div class="box_evaluate">
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2 hard_start"></div>
                           </div>
                         </div>
-                        <p class="price">Giá:  3.599.000đ</p>
+                        <p class="price">Giá: 3.599.000đ</p>
                         <a href="#" class="btn_view">Xem ngay</a>
                       </div>
                     </div>
@@ -205,31 +205,31 @@
                         <p class="name_product">Bộ điều khiển hồng ngoại</p>
                         <div class="box_evaluate">
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2 hard_start"></div>
                           </div>
                         </div>
-                        <p class="price">Giá:  3.199.000đ</p>
+                        <p class="price">Giá: 3.199.000đ</p>
                         <a href="#" class="btn_view">Xem ngay</a>
                       </div>
                     </div>
@@ -244,31 +244,31 @@
                         <p class="name_product">Cảm biến nhiệt độ, độ ẩm</p>
                         <div class="box_evaluate">
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2 hard_start"></div>
                           </div>
                         </div>
-                        <p class="price">Giá:  3.599.000đ</p>
+                        <p class="price">Giá: 3.599.000đ</p>
                         <a href="#" class="btn_view">Xem ngay</a>
                       </div>
                     </div>
@@ -283,36 +283,36 @@
                         <p class="name_product">Bộ điều khiển hồng ngoại</p>
                         <div class="box_evaluate">
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2"></div>
                           </div>
                           <div class="start">
-                            <div class="start-1"></div>                            
+                            <div class="start-1"></div>
                             <div class="start-2 hard_start"></div>
                           </div>
                         </div>
-                        <p class="price">Giá:  3.199.000đ</p>
+                        <p class="price">Giá: 3.199.000đ</p>
                         <a href="#" class="btn_view">Xem ngay</a>
                       </div>
                     </div>
 
-                  </div>                  
+                  </div>
                 </div>
               </div>
             </section>
@@ -327,7 +327,9 @@
                     <p class="category_slogan">Đồng bộ hóa <br> căn nhà của bạn</p>
                     <p class="btn_buy">
                       <span class="text">Mua ngay</span>
-                      <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 icon_arrow_right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>
+                      <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 icon_arrow_right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path>
+                      </svg>
                     </p>
                   </div>
                 </div>
@@ -339,7 +341,9 @@
                     <p class="category_slogan">Vận hành tự động <br> bằng giọng nói</p>
                     <p class="btn_buy">
                       <span class="text">Mua ngay</span>
-                      <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 icon_arrow_right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>
+                      <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 icon_arrow_right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path>
+                      </svg>
                     </p>
                   </div>
                 </div>
@@ -351,7 +355,9 @@
                     <p class="category_slogan">Bảo vệ an ninh <br> cho ngôi nhà</p>
                     <p class="btn_buy">
                       <span class="text">Mua ngay</span>
-                      <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 icon_arrow_right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>
+                      <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 icon_arrow_right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path>
+                      </svg>
                     </p>
                   </div>
                 </div>
@@ -380,7 +386,7 @@
                   </div>
                   <h2 class="title_service">LÊN KẾ HOẠCH</h2>
                   <p class="text_service">Hãy liệt kệ những mong muốn về một căn nhà thông minh của bạn,
-                     chúng tôi sẽ liên hệ và tư vấn một cách chi tiết nhất</p>
+                    chúng tôi sẽ liên hệ và tư vấn một cách chi tiết nhất</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -389,7 +395,7 @@
                     <img src="./public/images/icon/icon_service_2.png" alt="">
                   </div>
                   <h2 class="title_service">THẨM ĐỊNH</h2>
-                  <p class="text_service">Sau đó, hai bên cùng thống nhất thời gian, 
+                  <p class="text_service">Sau đó, hai bên cùng thống nhất thời gian,
                     các thiết bị cần lắp đặt và ký hợp đồng. Mọi thứ đều được rõ ràng và cụ thể.</p>
                 </div>
               </div>
@@ -400,14 +406,14 @@
                   </div>
                   <h2 class="title_service">THỰC THI</h2>
                   <p class="text_service">Hãy liệt kệ những mong muốn về một căn nhà thông minh của bạn,
-                     chúng tôi sẽ liên hệ và tư vấn một cách chi tiết nhất</p>
+                    chúng tôi sẽ liên hệ và tư vấn một cách chi tiết nhất</p>
                 </div>
               </div>
             </div>
           </div>
 
         </div>
-        
+
       </section>
       <section class="box_parameter">
         <div class="container_edit--page--1240">
@@ -461,7 +467,7 @@
 
           <div class="box_main_item">
             <div class="box_grid">
-              
+
               <!-- item 1 -->
               <div class="item_grid ">
                 <div class="item_main">
@@ -472,7 +478,7 @@
                   </div>
                   <div class="box_main_text">
                     <p class="title">Đội ngũ</p>
-                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                       sed do eiusmod tempor incididunt dolore magna aliqua</p>
                   </div>
                 </div>
@@ -481,15 +487,15 @@
               <!-- item 2 -->
               <div class="item_grid ">
                 <div class="item_main">
-                <div class="box_circle"></div>
-                <div class="box_icon">
-                  <img src="./public/images/icon/tinhNang_2.svg" alt="">
-                </div>
-                <div class="box_main_text">
-                  <p class="title">Bảo Dưỡng</p>
-                  <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt dolore magna aliqua</p>
-                </div>
+                  <div class="box_circle"></div>
+                  <div class="box_icon">
+                    <img src="./public/images/icon/tinhNang_2.svg" alt="">
+                  </div>
+                  <div class="box_main_text">
+                    <p class="title">Bảo Dưỡng</p>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt dolore magna aliqua</p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -511,7 +517,7 @@
                       <!-- item 1 -->
                       <div class="item_grid_category">
                         <div class="box_main_text">
-                        
+
                           <p class="title_category">Nhiệt độ</p>
                           <ul class="list_inf">
                             <li class="item_inf">
@@ -618,7 +624,7 @@
                   </div>
                 </div>
               </div>
-            </div>    
+            </div>
           </div>
 
         </div>
@@ -645,7 +651,7 @@
 
           <div class="box_main_propose">
             <div class="box_show_slide_propose">
-                    
+
               <!-- product 1 -->
               <div class="box_main_product">
                 <div class="box_img_product">
@@ -656,35 +662,35 @@
                   <p class="name_product">Cảm biến nhiệt độ, độ ẩm</p>
                   <div class="box_evaluate">
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2 hard_start"></div>
                     </div>
                   </div>
-                  <p class="price">Giá:  3.599.000đ</p>
+                  <p class="price">Giá: 3.599.000đ</p>
                   <a href="#" class="btn_view">Xem ngay</a>
                 </div>
               </div>
-  
+
               <!-- product 2 -->
               <div class="box_main_product">
                 <div class="box_img_product">
@@ -695,35 +701,35 @@
                   <p class="name_product">Bộ điều khiển hồng ngoại</p>
                   <div class="box_evaluate">
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2 hard_start"></div>
                     </div>
                   </div>
-                  <p class="price">Giá:  3.199.000đ</p>
+                  <p class="price">Giá: 3.199.000đ</p>
                   <a href="#" class="btn_view">Xem ngay</a>
                 </div>
               </div>
-  
+
               <!-- product 3 -->
               <div class="box_main_product">
                 <div class="box_img_product">
@@ -734,35 +740,35 @@
                   <p class="name_product">Cảm biến nhiệt độ, độ ẩm</p>
                   <div class="box_evaluate">
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2 hard_start"></div>
                     </div>
                   </div>
-                  <p class="price">Giá:  3.599.000đ</p>
+                  <p class="price">Giá: 3.599.000đ</p>
                   <a href="#" class="btn_view">Xem ngay</a>
                 </div>
               </div>
-  
+
               <!-- product 4 -->
               <div class="box_main_product">
                 <div class="box_img_product">
@@ -773,35 +779,35 @@
                   <p class="name_product">Bộ điều khiển hồng ngoại</p>
                   <div class="box_evaluate">
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2 hard_start"></div>
                     </div>
                   </div>
-                  <p class="price">Giá:  3.199.000đ</p>
+                  <p class="price">Giá: 3.199.000đ</p>
                   <a href="#" class="btn_view">Xem ngay</a>
                 </div>
               </div>
-  
+
               <!-- product 5 -->
               <div class="box_main_product">
                 <div class="box_img_product">
@@ -812,35 +818,35 @@
                   <p class="name_product">Cảm biến nhiệt độ, độ ẩm</p>
                   <div class="box_evaluate">
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2 hard_start"></div>
                     </div>
                   </div>
-                  <p class="price">Giá:  3.599.000đ</p>
+                  <p class="price">Giá: 3.599.000đ</p>
                   <a href="#" class="btn_view">Xem ngay</a>
                 </div>
               </div>
-  
+
               <!-- product 6 -->
               <div class="box_main_product">
                 <div class="box_img_product">
@@ -851,36 +857,36 @@
                   <p class="name_product">Bộ điều khiển hồng ngoại</p>
                   <div class="box_evaluate">
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2"></div>
                     </div>
                     <div class="start">
-                      <div class="start-1"></div>                            
+                      <div class="start-1"></div>
                       <div class="start-2 hard_start"></div>
                     </div>
                   </div>
-                  <p class="price">Giá:  3.199.000đ</p>
+                  <p class="price">Giá: 3.199.000đ</p>
                   <a href="#" class="btn_view">Xem ngay</a>
                 </div>
               </div>
-  
-            </div>   
+
+            </div>
           </div>
 
         </div>
@@ -891,7 +897,7 @@
       <div class="container_edit--page--696">
         <div class="box_main_comment">
           <div class="box_main_slide_new">
-            
+
             <!-- comment 1 -->
             <div class="box_comment">
               <div class="box_main_avt">
@@ -1004,8 +1010,8 @@
     </section>
 
   </section>
-  <?php require_once "block/footer.php";?>
-  <?php require_once "block/scripts.php";?>
+  <?php require_once "block/footer.php"; ?>
+  <?php require_once "block/scripts.php"; ?>
 </body>
 
 </html>

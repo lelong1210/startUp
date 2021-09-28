@@ -10,13 +10,13 @@
       <ul class="box_menu_ul">
         <li class="box_menu_li"></li>
         <li class="box_menu_li">
-          <a href="#" class="menu_link">Trang chủ</a>
+          <a href="./" class="menu_link">Trang chủ</a>
         </li>
         <li class="box_menu_li active">
-          <a href="#" class="menu_link">Giới thiệu</a>
+          <a href="./gioithieu" class="menu_link">Giới thiệu</a>
         </li>
         <li class="box_menu_li">
-          <a href="#" class="menu_link">Tin tức</a>
+          <a href="./news" class="menu_link">Tin tức</a>
         </li>
         <li class="box_menu_li">
           <a href="#" class="menu_link">Sản phẩm</a>

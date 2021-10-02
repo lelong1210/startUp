@@ -35,7 +35,7 @@
                                 <div class="col-md-3">
                                         <div class="box-content">
                                                 <h1>Chính sách</h1>
-                                                <a href=""><p class="cs_text">chính sách bảo hành</p></a>
+                                                <a href="./baohanh"><p class="cs_text">chính sách bảo hành</p></a>
                                                 <a href=""><p class="cs_text">chính sách  đổi trả</p></a>
                                                 <a href=""><p class="cs_text">ưu đãi</p></a>
                                                 <a href=""><p class="cs_text">phương thức thanh toán</p></a>

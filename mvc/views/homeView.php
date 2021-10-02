@@ -911,7 +911,7 @@
                 <div class="box_main_text">
                   <h2 class="name_user_comment">Nguyễn Thành Thiện</h2>
                   <p class="home_town">Khánh Hòa - Nha Trang</p>
-                  <p class="description">Đồ dùng rất tốt , chuyên viên chăm sóc khách hàng rất tận tình</p>
+                  <p class="description">Đồ dùng rất tốt , chuyên viên chăm sóc khách hàng rất tận tình.</p>
                 </div>
               </div>
             </div>
@@ -927,8 +927,8 @@
                 </div>
                 <div class="box_main_text">
                   <h2 class="name_user_comment">Lê Văn Tấn</h2>
-                  <p class="home_town">Quảng Trị</p>
-                  <p class="description">Cung cấp hàng rất chất lượng</p>
+                  <p class="home_town">Hải Lăng - Quảng Trị</p>
+                  <p class="description">Cung cấp hàng rất chất lượng, mình rất thích đồ dùng bên shop.</p>
                 </div>
               </div>
             </div>
@@ -945,7 +945,7 @@
                 <div class="box_main_text">
                   <h2 class="name_user_comment">Nguyễn Thị Kiều Anh</h2>
                   <p class="home_town">Hải Châu - Đà Nẵng</p>
-                  <p class="description">sản phẩm máy hút bụi rất tốt</p>
+                  <p class="description">sản phẩm máy hút bụi rất tốt,sau này mình sẽ ủng hộ nhiều hơn.</p>
                 </div>
               </div>
             </div>

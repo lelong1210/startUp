@@ -901,7 +901,7 @@
             <!-- comment 1 -->
             <div class="box_comment">
               <div class="box_main_avt">
-                <img src="./public/images/avt_comment/avt_long_le.jpg" alt="" class="img_avt">
+                <img src="https://scontent.fhan9-1.fna.fbcdn.net/v/t1.6435-9/174090376_942156493222574_6926769777953370973_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=mMU7xh99UYcAX_qk61A&_nc_ht=scontent.fhan9-1.fna&oh=a09cf730ad5851b8426bce7e8bb3ccfc&oe=617D8BAC" alt="" class="img_avt">
               </div>
               <div class="box_content_comment">
                 <div class="box_quotes">
@@ -909,10 +909,9 @@
                   <div class="item_quotes quotes_right"></div>
                 </div>
                 <div class="box_main_text">
-                  <h2 class="name_user_comment">Lê Quang Long</h2>
-                  <p class="home_town">Lệ Thủy - Quảng Bình</p>
-                  <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+                  <h2 class="name_user_comment">Nguyễn Thành Thiện</h2>
+                  <p class="home_town">Khánh Hòa - Nha Trang</p>
+                  <p class="description">Đồ dùng rất tốt , chuyên viên chăm sóc khách hàng rất tận tình</p>
                 </div>
               </div>
             </div>
@@ -927,17 +926,16 @@
                   <div class="item_quotes quotes_right"></div>
                 </div>
                 <div class="box_main_text">
-                  <h2 class="name_user_comment">Lê Quang Long</h2>
-                  <p class="home_town">Lệ Thủy - Quảng Bình</p>
-                  <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+                  <h2 class="name_user_comment">Lê Văn Tấn</h2>
+                  <p class="home_town">Quảng Trị</p>
+                  <p class="description">Cung cấp hàng rất chất lượng</p>
                 </div>
               </div>
             </div>
             <!-- comment 3 -->
             <div class="box_comment">
               <div class="box_main_avt">
-                <img src="./public/images/avt_comment/avt_ngan.jpg" alt="" class="img_avt">
+                <img src="https://scontent.fhan9-1.fna.fbcdn.net/v/t1.6435-9/190974604_353780339447395_748432599216554157_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=3a0i5-IZGLgAX-1mJBW&_nc_ht=scontent.fhan9-1.fna&oh=156b9af03d9d4ddc9b1b2aea8c164ca6&oe=617CFDB3" alt="" class="img_avt">
               </div>
               <div class="box_content_comment">
                 <div class="box_quotes">
@@ -945,10 +943,9 @@
                   <div class="item_quotes quotes_right"></div>
                 </div>
                 <div class="box_main_text">
-                  <h2 class="name_user_comment">Nguyễn Thị Khánh Ngân</h2>
+                  <h2 class="name_user_comment">Nguyễn Thị Kiều Anh</h2>
                   <p class="home_town">Hải Châu - Đà Nẵng</p>
-                  <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+                  <p class="description">sản phẩm máy hút bụi rất tốt</p>
                 </div>
               </div>
             </div>

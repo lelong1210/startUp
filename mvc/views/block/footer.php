@@ -35,33 +35,33 @@
                                 <div class="col-md-3">
                                         <div class="box-content">
                                                 <h1>Chính sách</h1>
-                                                <a href="./baohanh"><p class="cs_text">chính sách bảo hành</p></a>
-                                                <a href=""><p class="cs_text">chính sách  đổi trả</p></a>
-                                                <a href=""><p class="cs_text">ưu đãi</p></a>
-                                                <a href=""><p class="cs_text">phương thức thanh toán</p></a>
-                                                <a href=""><p class="cs_text">phương thức vận chuyển</p></a>
+                                                <a href="./baohanh"><p class="cs_text">Chính sách bảo hành</p></a>
+                                                <a href=""><p class="cs_text">Chính sách  đổi trả</p></a>
+                                                <a href=""><p class="cs_text">Ưu đãi</p></a>
+                                                <a href=""><p class="cs_text">Phương thức thanh toán</p></a>
+                                                <a href=""><p class="cs_text">Phương thức vận chuyển</p></a>
                                         </div>
                                 </div>
                                 <div class="col-md-3">
                                         <div class="box-content">
                                                 <h1>Sản Phẩm</h1>
-                                                <a href=""><p class="cs_text">chiếu sáng thông minh</p></a>
-                                                <a href=""><p class="cs_text">rèm cửa tự động</p></a>
-                                                <a href=""><p class="cs_text">khóa thông minh</p></a>
-                                                <a href=""><p class="cs_text">alexa</p></a>
-                                                <a href=""><p class="cs_text">an ninh tự động</p></a>
+                                                <a href=""><p class="cs_text">Chiếu sáng thông minh</p></a>
+                                                <a href=""><p class="cs_text">Rèm cửa tự động</p></a>
+                                                <a href=""><p class="cs_text">Khóa thông minh</p></a>
+                                                <a href=""><p class="cs_text">Alexa</p></a>
+                                                <a href=""><p class="cs_text">An ninh tự động</p></a>
                                         </div>
                                 </div>
                                 <div class="col-md-3">
                                         <div class="box-content">
                                                 <h1>Liên hệ với chúng tôi</h1>
-                                                <a href=""><p class="cs_text">smart Home - Ngôi nhà của bạn là trách nhiệm của chúng tôi</p></a>
+                                                <a href=""><p class="cs_text">Smart Home - Ngôi nhà của bạn là trách nhiệm của chúng tôi</p></a>
                                                 <a href="">
                                                         <div class="box_item_inf--footer">
                                                                 <div class="box_icon--footer">
                                                                         <img src="../.././public/images/icon/icon_footer--1.svg" alt="">
                                                                 </div>
-                                                                <p class="cs_text">+012 (345) 6789</p>
+                                                                <p class="cs_text">0922206783</p>
                                                         </div>
                                                 </a>
                                                 <a href="">
@@ -69,7 +69,7 @@
                                                                 <div class="box_icon--footer">
                                                                         <img src="../.././public/images/icon/icon_footer--2.svg" alt="">
                                                                 </div>
-                                                                <p class="cs_text">tauhai@vku.udn.vn</p>
+                                                                <p class="cs_text">startupk21@gmail.com</p>
                                                         </div>
                                                 </a>
 
@@ -78,7 +78,7 @@
                                                                 <div class="box_icon--footer">
                                                                         <img src="../.././public/images/icon/icon_footer--3.svg" alt="">
                                                                 </div>
-                                                                <p class="cs_text">470 - Nam kì khởi nghĩa - ngũ hành sơn - đà nãng</p>
+                                                                <p class="cs_text">DaNaTech, 470 – Nam Kì Khởi Nghĩa – Ngũ Hành Sơn – Đà Nẵng</p>
                                                         </div>
                                                 </a>
                                                 

@@ -5,22 +5,22 @@
                         <div class="row">
                                 <div class="col-md-4">
                                         <div class="box__logo--footer">
-                                                <img src="./public/images/logo_footer.png" alt="logo footer">
+                                                <img src="./public/images/logo.png" alt="logo footer">
                                         </div>
                                 </div>
                                 <div class="col-md-8">
                                         <div class="box__content">
-                                                <h1>Subscribe Our Newsletters</h1>
+                                                <h1>Đăng Ký Nhận Thông Tin Mới Nhất Của Chúng Tôi</h1>
                                                 <form action="#" class="form_get_inf">
                                                         <div class="row">
                                                                 <div class="col-md-8">
                                                                         <div class="box_input">
-                                                                                <input type="text" placeholder="Enter Your Email">
+                                                                                <input type="text" placeholder="Nhập Email Của Bạn...">
                                                                         </div>
                                                                 </div>
                                                                 <div class="col-md-4">
                                                                         <div class="box_submit">
-                                                                                <input type="submit" value="Subscribe Now">
+                                                                                <input type="submit" value="Nhận Ngay...">
                                                                         </div>
                                                                 </div>
                                                         </div>

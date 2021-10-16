@@ -19,7 +19,7 @@
           <a href="./news" class="menu_link">Tin tức</a>
         </li>
         <li class="box_menu_li">
-          <a href="#" class="menu_link">Sản phẩm</a>
+          <a href="./sanpham" class="menu_link">Sản phẩm</a>
         </li>
         <li class="box_menu_li">
           <a href="#" class="menu_link">Lắp đặt</a>
@@ -35,18 +35,10 @@
             <img src="./public/images/icon/cart-sharp.png" alt="" class="icon_cart">
           </a>
         </li>
-        <li class="item_user_li item_user_li--hover">
-          <a href="">
+        <li class="item_user_li">
+          <a href="dndk">
             <img src="./public/images/icon/person-circle.png" alt="" class="icon_cart">
           </a>
-          <ul class="items_inf_user--ul">
-            <li class="item_inf_user--li">
-              <a href="#">Đăng nhập</a>
-            </li>
-            <li class="item_inf_user--li">
-              <a href="#">Đăng kí</a>
-            </li>
-          </ul>
         </li>
       </ul>
 

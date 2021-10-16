@@ -34,15 +34,9 @@ class sanphamModel extends connectDB{
     }
     // Function Support View 
     function ShowProduct($arr,$numberRepeact){
-        echo "<div class='row'>";
-            echo "<div 'class='col'>";
-                echo "<div class='tab-content'>";
-                    echo "<div class='tab-pane fade show active' id='tab-product-new-arrivals'>";
-                        echo "<div class='row'>";
-                            $this->RepeatProduct($arr,$numberRepeact);
-                        echo "</div>";
-                    echo "</div>";
-                echo "</div>";
+        echo "<div class='box_main_content'>";
+            echo "<div class='box_grid'>";
+                $this->RepeatProduct($arr,$numberRepeact);
             echo "</div>";
         echo "</div>";
     }
@@ -50,39 +44,24 @@ class sanphamModel extends connectDB{
         $arr = array_values((array) $arr);
         for ($i=0; $i < $numberRepeact; $i++) { 
             $arrChild = array_values((array) $arr[$i]);
-            echo "<div class='col-lg-3 col-md-6 col-sm-6 col-xs-6 mb-6' data-aos='fade-up' data-aos-delay='200'>";
-                echo "<!-- Single Prodect -->";
-                echo "<div class='product'>";
-                    echo"<div class='thumb'>";
-                        echo"<a href='./$arrChild[3]/$arrChild[0]' class='image'>";
-                            echo"<img src='$arrChild[5]' />";
-                            echo"<img class='hover-image' src='$arrChild[5]' />";
-                        echo"</a>";
-                        echo"<span class='badges'>";
-                            echo"<span class='new'>New</span>";
-                        echo"</span>";
-                        echo"<button title='Add To Cart' class=' add-to-cart'>Thêm Vào Giỏ Hàng</button>";
-                    echo"</div>";
-                    echo"<div class='content'>";
-                        echo"<h5 class='title'><a href='./$arrChild[3]/$arrChild[0]'>$arrChild[1]</a></h5>";
-                        echo"<span class='price'>";
-                            echo"<span class='new'>".number_format($arrChild[2])." đ</span>";
-                        echo"</span>";
-                    echo"</div>";
-                echo"</div>";
-            echo"</div>";
+            echo "<div class='item_grid'>";
+                echo "<div class='item_main_layout'>";
+                    echo "<div class='box_image'>";
+                        echo "<img src='$arrChild[5]' alt=''>";
+                    echo "</div>";
+                    echo "<div class='box_inf_product'>";
+                        echo "<h4 class='title_product'>$arrChild[1]</h4>";
+                        echo "<p class='price'>".number_format($arrChild[2])." đ</p>";
+                    echo "</div>";
+                echo "</div>";
+            echo "</div>";
         }
 
     }
     function ShowTiTle($arr){
-        echo "<div class='row'>";
-            echo "<div class='col-md-12 text-center' data-aos='fade-up'>";
-                echo"<div class='section-title mb-0'>";
-                    echo"<a href='./$arr[1]'><h2 class='title'>".mb_strtoupper($arr[2], 'UTF-8')."</h2></a>";
-                    echo"<p class='sub-title mb-6'></p>";
-                echo"</div>";
-            echo"</div>";
-        echo"</div>";
+        echo "<div class='box_main_header' style='margin-top: 30px;'>";
+            echo "<h1 class='title'>$arr[2]</h1>";
+        echo "</div>";
     }
     function ShowTypeProduct(){
         $numberRepeact = 8 ;

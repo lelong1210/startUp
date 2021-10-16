@@ -3,7 +3,7 @@
 <head>
   <?php //require_once "blockLong/head.php"; ?>
   <?php require_once "block/head.php"?>
-  <!-- <link rel="stylesheet" href="http://localhost/startUp/public/css/style.min.css"> -->
+    <title>Sản Phẩm</title>
 </head>
 
 <body class="wrapper">
@@ -26,103 +26,9 @@
     </div>
     <section class="section_main_item">
         <div class="container_edit--page--1024">
-            
-            <div class="box_main_header">
-                <h1 class="title">title header</h1>
-            </div>
-
-            <div class="box_main_content">
-                <div class="box_grid">
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item_grid">
-                        <div class="item_main_layout">
-                            <div class="box_image">
-                                <img src="https://itcafe.vn/wp-content/uploads/2021/01/anh-gai-xinh-4.jpg" alt="">
-                            </div>
-                            <div class="box_inf_product">
-                                <h4 class="title_product">Tên của product</h4>
-                                <p class="price">2000000000000đ</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php
+                $data["homeModel"]-> ShowTypeProduct();
+            ?>
         </div>
     </section>
   <?php require_once "block/footer.php"; ?>

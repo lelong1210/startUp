@@ -22,7 +22,7 @@
           <a href="./sanpham" class="menu_link">Sản phẩm</a>
         </li>
         <li class="box_menu_li">
-          <a href="#" class="menu_link">Lắp đặt</a>
+          <a href="./trainghiem" class="menu_link">Trãi Nghiệm</a>
         </li>
         <li class="box_menu_li">
           <a href="#" class="menu_link">Liên hệ</a>

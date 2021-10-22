@@ -5,7 +5,7 @@
                         <div class="row">
                                 <div class="col-md-4">
                                         <div class="box__logo--footer">
-                                                <img src="./public/images/logo.png" alt="logo footer">
+                                                <img src="./public/images/logo_footer.png" alt="logo footer">
                                         </div>
                                 </div>
                                 <div class="col-md-8">

@@ -25,7 +25,7 @@
           <a href="./trainghiem" class="menu_link">Trãi Nghiệm</a>
         </li>
         <li class="box_menu_li">
-          <a href="#" class="menu_link">Liên hệ</a>
+          <a href="./lienhe" class="menu_link">Liên hệ</a>
         </li>
       </ul>
 

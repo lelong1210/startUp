@@ -14,3 +14,5 @@
 <!-- jqurey  -->
 <!-- main -->
 <script src="http://localhost/startUp/public/js/main.js"></script>
+
+<script src="http://localhost/startUp/public/js/mic.js"></script>

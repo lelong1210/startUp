@@ -1008,7 +1008,6 @@
         </div>
       </div>
     </section>
-
   </section>
   <?php require_once "block/footer.php"; ?>
   <?php require_once "block/scripts.php"; ?>

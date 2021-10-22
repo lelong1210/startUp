@@ -328,7 +328,7 @@
                                     </a>
                                 </li>
                                 <li class="item_danh_muc">
-                                    <a href="#" class="link_item">
+                                    <a href="./thongtincovid" class="link_item">
                                         <p class="danh_muc_content">
                                             <span class="name">Tình Hình Covid-19 </span>
                                             <span class="number">(NEW)</span>
@@ -467,138 +467,6 @@
                         </div>
 
                         <!-- Thông tin nổi bật( tình hình covid ) -->
-                        <div class="box_new_hot">
-                            <div class="box_heading">
-                                <h2 class="title">TÌNH HÌNH COVID - 19 TẠI VIỆT NAM</h2>
-                            </div>
-                            <div class="box_content_hot_new">
-                                <div class="box_hot_new_heading">
-                                    <div class="box_heading--inf box_heading--left">
-                                        <p class="title_heading">Công bố hôm qua</p>
-                                        <p class="parameter_heading parameter_heading--1">+13.01</p>
-                                    </div>
-                                    <div class="box_heading--inf box_heading--right">
-                                        <p class="title_heading">Tổng nhiễm</p>
-                                        <p class="parameter_heading parameter_heading--2">520.014</p>
-                                    </div>
-                                </div>
-
-                                <div class="box_hot_new_body">
-                                    <div class="box_hot_new_body--heading">
-                                        <div class="box_main_layout">
-                                            <div class="item_layout flex--2">
-                                                <div class="box_item_heading">
-                                                    <p class="title">Tỉnh</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_heading">
-                                                    <p class="title">Công bố tất cả</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_heading">
-                                                    <p class="title">Tổng</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- tỉnh 1-->
-                                    <div class="box_hot_new_body--province">
-                                        <div class="box_main_layout">
-                                            <div class="item_layout flex--2">
-                                                <div class="box_item_province">
-                                                    <p class="title_province">Đồng Nai</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="number_puss">+1.23</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="total">28.59</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- tỉnh 2-->
-                                    <div class="box_hot_new_body--province">
-                                        <div class="box_main_layout">
-                                            <div class="item_layout flex--2">
-                                                <div class="box_item_province">
-                                                    <p class="title_province">Long An</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="number_puss">+756</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="total">25.085</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- tỉnh 3-->
-                                    <div class="box_hot_new_body--province">
-                                        <div class="box_main_layout">
-                                            <div class="item_layout flex--2">
-                                                <div class="box_item_province">
-                                                    <p class="title_province">Kiên Giang</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="number_puss">+345</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="total">2.162</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- tỉnh 2-->
-                                    <div class="box_hot_new_body--province">
-                                        <div class="box_main_layout">
-                                            <div class="item_layout flex--2">
-                                                <div class="box_item_province">
-                                                    <p class="title_province">Khánh hòa</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="number_puss">+100</p>
-                                                </div>
-                                            </div>
-                                            <div class="item_layout flex--1">
-                                                <div class="box_item_province">
-                                                    <p class="total">500</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-                                <div class="box_hot_new_footer">
-                                    <p class="date_time">
-                                        Cập nhật: <span class="date">18:30, 5/9</span>
-                                    </p>
-                                    <a href="#" class="btn_xem_them">Xem Thêm</a>
-                                </div>
-
-                            </div>
-                        </div>
 
                         <!-- phần danh sách sản phẩm -->
                         <div class="box_list_product">

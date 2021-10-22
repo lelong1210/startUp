@@ -479,8 +479,9 @@
                   </div>
                   <div class="box_main_text">
                     <p class="title">Đội ngũ</p>
-                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt dolore magna aliqua</p>
+                    <p class="description">với đội ngũ nhiều năm kinh nghiệm làm việc trong môi trường
+                      smarthome chúng tôi tự tin sẽ đem đến trãi nghiệm tốt nhất cho người dùng
+                    </p>
                   </div>
                 </div>
               </div>
@@ -494,8 +495,9 @@
                   </div>
                   <div class="box_main_text">
                     <p class="title">Bảo Dưỡng</p>
-                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt dolore magna aliqua</p>
+                    <p class="description">Với nhiều chính sách ưu đãi về bảo dưỡng chúng tôi tin rằng sẽ phục vụ 
+                      khách hàng tốt nhất khi đến với chúng tôi
+                    </p>
                   </div>
                 </div>
               </div>

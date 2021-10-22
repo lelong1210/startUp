@@ -23,7 +23,7 @@
           <div class="box__slide box__slide--1">
             <div class="container_part__edit">
               <h1>
-                CÁC THÔNG MINH VỀ CHÚNG TÔI
+                CÁC SẢN PHẨM VỀ SMARTHOME CỦA CHÚNG TÔI
               </h1>
               <p>
                 Nơi cung cấp các sản phẩm giành riêng cho ngôi nhà của bạn
@@ -36,7 +36,7 @@
           <div class="box__slide box__slide--2">
             <div class="container_part__edit">
               <h1>
-                CÁC THÔNG MINH VỀ CHÚNG TÔI
+                CÁC SẢN PHẨM VỀ SMARTHOME CỦA CHÚNG TÔI
               </h1>
               <p>
                 Nơi cung cấp các sản phẩm giành riêng cho ngôi nhà của bạn
@@ -49,7 +49,7 @@
           <div class="box__slide box__slide--3">
             <div class="container_part__edit">
               <h1>
-                CÁC THÔNG MINH VỀ CHÚNG TÔI
+                CÁC SẢN PHẨM VỀ SMARTHOME CỦA CHÚNG TÔI
               </h1>
               <p>
                 Nơi cung cấp các sản phẩm giành riêng cho ngôi nhà của bạn
@@ -62,7 +62,7 @@
           <div class="box__slide box__slide--4">
             <div class="container_part__edit">
               <h1>
-                CÁC THÔNG MINH VỀ CHÚNG TÔI
+                CÁC SẢN PHẨM VỀ SMARTHOME CỦA CHÚNG TÔI
               </h1>
               <p>
                 Nơi cung cấp các sản phẩm giành riêng cho ngôi nhà của bạn

@@ -410,10 +410,12 @@ body {
           left: 300px; }
           .section_content .section_content--1 .container-edit .box_main_slide .box__slide .container_part__edit h1 {
             color: #47809f;
-            font-size: 2.5rem;
+            font-size: 3rem;
             margin-bottom: 30px; }
           .section_content .section_content--1 .container-edit .box_main_slide .box__slide .container_part__edit p {
-            color: #235672; }
+            color: #235672; 
+            font-size: 2rem;
+          }
       .section_content .section_content--1 .container-edit .box_main_slide .slick-dots {
         position: absolute;
         bottom: 50px;
